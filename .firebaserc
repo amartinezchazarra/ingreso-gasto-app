@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-gasto-app-8999c": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "ingreso-gasto-app-8999c"
+        ]
+      }
+    }
+  }
+}
